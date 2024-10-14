@@ -19,11 +19,11 @@ step 4: Gradient Descent Optimization: Implement the gradient descent algorithm 
 step 5:Iterate Until Convergence: Repeat the gradient descent steps for a predefined number of iterations or until convergence criteria are met. Convergence can be determined when the change in the loss function between iterations becomes very small or when the parameters (theta) stop changing significantly.
 
 ## Program:
-/*
-## Program to implement the the Logistic Regression Using Gradient Descent.
-## Developed by: Rohith T
-## RegisterNumber: 212223040173
-*/
+```
+ Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by: KALAISELVAN J
+RegisterNumber: 212223080022
+```
 ```
 
 import pandas as pd
